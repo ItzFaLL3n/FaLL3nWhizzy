@@ -2,7 +2,7 @@
 -  I’m interested in ...Backend Dev,Game Dev
 - Just a Guy Helping Some Good Community
 --Qbcore --Cybersec
-- Familiar With Networks
+- Familiar With Networking
 
 
 <!---

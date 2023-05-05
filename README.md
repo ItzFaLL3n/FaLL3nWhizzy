@@ -1,7 +1,6 @@
 -  Hi, I’m @FaLL3nWhizzy
 -  I’m interested in ...Backend Dev,Game Dev
 - Just a Guy Helping Some Good Community
---Qbcore --Cybersec
 - Familiar With Networking
 
 

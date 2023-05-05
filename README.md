@@ -18,3 +18,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![Top Launguage](https://github-readme-stats.vercel.app/api/top-langs/?username=FaLL3nWhizzy&show_icons=true&theme=radical)
 --->
+
+[![Spotify](https://spotify-readme-fall3n.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)

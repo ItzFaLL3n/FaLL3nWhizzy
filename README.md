@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Launguage](https://github-readme-stats.vercel.app/api/top-langs/?username=FaLL3nWhizzy&show_icons=true&theme=radical)
 --->
 
-[![Readme Card](https://github-readme-stats-fall3nwhizzy.vercel.app/api/pin/?username=FaLL3nWhizzy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-fall3nwhizzy.vercel.app/api/pin/?username=FaLL3nWhizzy&repo=FaLL3nWhizzy)](https://github.com/FaLL3nWhizzy/FaLL3nWhizzy)
 
 [![Spotify](https://novatorem-swart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 

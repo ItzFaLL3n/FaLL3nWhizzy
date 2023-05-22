@@ -40,11 +40,9 @@ You can click the Preview link to take a look at your changes.
 
 ## **Go-to Languages and Tools**
 
-</br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,react,python,nodejs,mysql,nginx,nextjs,vim,vscode,vercel,prisma,sass,mongodb,figma,git,ps&perline=14)]
+![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,react,python,nodejs,mysql,nginx,nextjs,vim,vscode,vercel,prisma,sass,mongodb,figma,git,ps&perline=14)
 
-<hr />
 
 [![Spotify](https://novatorem-swart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 

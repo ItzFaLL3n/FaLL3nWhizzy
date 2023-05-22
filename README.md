@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/FaLL3nWhizzy)
 [![Discord](https://img.shields.io/discord/941957506647855164?label=DISCORD&logo=discord&logoColor=green&style=for-the-badge)](https://discord.gg/cqNbdEmazR)
+![Profile Views since 31 May, 2022](https://komarev.com/ghpvc/?username=FaLL3nWhizzy&style=for-the-badge)
 
 
 ## **Go-to Languages and Tools**

@@ -38,5 +38,11 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br><br>
 
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,tailwind,react,python,nodejs,deno,graphql,mysql,nginx,nextjs,vim,vscode,vercel,netlify,planetscale,prisma,sass,mongodb,apollo,figma,ai,pr,ps&perline=14)](https://mohitya.dev/tools)
+
+<hr />
+
 [![Spotify](https://novatorem-swart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 

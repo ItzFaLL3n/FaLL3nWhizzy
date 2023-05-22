@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br><br>
 
 [![Discord](https://img.shields.io/discord/941957506647855164?label=DISCORD&logo=discord&logoColor=green&style=for-the-badge)](https://discord.gg/cqNbdEmazR)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/FaLL3nWhizzy)
 
 ## **Go-to Languages and Tools**
 

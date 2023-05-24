@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![Github Stats](https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=FaLL3nWhizzy&count_private=true&show_icons=true&theme=dracula)
 
 
-![Top Launguage](https://github-readme-stats.vercel.app/api/top-langs/?username=FaLL3nWhizzy&show_icons=true&theme=github_dark)
+![Top Launguage](https://github-readme-stats.vercel.app/api/top-langs/?username=FaLL3nWhizzy&show_icons=true&theme=dracula)
 <!--
 [![Readme Card](https://github-readme-stats-fall3nwhizzy.vercel.app/api/pin/?username=FaLL3nWhizzy&repo=FaLL3nWhizzy)](https://github.com/FaLL3nWhizzy/FaLL3nWhizzy)
 --->

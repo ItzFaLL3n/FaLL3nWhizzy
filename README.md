@@ -1,6 +1,6 @@
 -  Hi, I’m @FaLL3n
--  I’m interested in ...Backend Dev,Game Dev
-- Just a Guy Helping Some Good Community
+-  I’m interested in ...Backend,Linux,Docker...
+- Just a Dood With a Computer...
 - Familiar With Networking
 
 

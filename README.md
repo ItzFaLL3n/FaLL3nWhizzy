@@ -54,4 +54,3 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Spotify](https://novatorem-swart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-

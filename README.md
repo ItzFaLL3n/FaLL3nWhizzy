@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://img.shields.io/badge/-LUA-2C2D72?logo=lua&logoColor=fff"> <img src ="https://img.shields.io/badge/-Python-/3776AB?logo=Python&logoColor=fff">
 -->
 <p align="center">
-![Github Stats](https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=FaLL3nWhizzy&count_private=true&show_icons=true&theme=dracula)
+ <img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=FaLL3nWhizzy&count_private=true&show_icons=true&theme=dracula">
  </p>
 
 

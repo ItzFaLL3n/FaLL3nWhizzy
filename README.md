@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
  </p>
 
 
- <p align="center">
+ <!---<p align="center">
 
 <img align="center"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=FaLL3nWhizzy&theme=dracula"/>
 
-</p>
+</p>--->
 
 <!--
 [![Readme Card](https://github-readme-stats-fall3nwhizzy.vercel.app/api/pin/?username=FaLL3nWhizzy&repo=FaLL3nWhizzy)](https://github.com/FaLL3nWhizzy/FaLL3nWhizzy)

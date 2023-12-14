@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  </p>
 
 <p align="center">
- <img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3&show_icons=true&theme=dracula">
+ <img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3n&show_icons=true&theme=dracula">
  </p>
 
 
